@@ -98,3 +98,39 @@
 2021-12-09 16:24:43 - INFO - "GET /sneakers HTTP/1.1" 200 2560
 2021-12-09 16:24:43 - INFO - "DELETE /sneakers/8 HTTP/1.1" 200 323
 2021-12-09 16:24:43 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2021-12-09 18:15:33 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-09 18:15:33 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-09 18:15:33 - WARNING - "GET /sneaers HTTP/1.1" 404 1536
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-09 18:15:33 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-09 18:15:33 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2021-12-09 18:34:47 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-09 18:34:47 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-09 18:34:47 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-09 18:34:47 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2021-12-09 18:34:47 - INFO - "GET /sneakers/1 HTTP/1.1" 200 311
+2021-12-09 18:34:47 - INFO - "GET /sneakers/2 HTTP/1.1" 200 338
+2021-12-09 18:34:47 - INFO - "GET /sneakers/7 HTTP/1.1" 200 263
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-09 18:36:03 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-09 18:36:03 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2021-12-09 18:36:03 - INFO - "GET /sneakers/1 HTTP/1.1" 200 311
+2021-12-09 18:36:03 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2021-12-09 18:36:03 - INFO - "POST /sneakers HTTP/1.1" 200 315
+2021-12-09 18:36:03 - INFO - "GET /sneakers HTTP/1.1" 200 2554
