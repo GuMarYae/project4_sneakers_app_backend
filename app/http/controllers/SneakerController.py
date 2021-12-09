@@ -36,7 +36,7 @@ class SneakerController(Controller):
         sneaker = Sneaker.create({"brand": brand, "name": name, "cost": cost, "Year": year, "image": image})
         return sneaker
 
-
+#update route
     def update(self):
         brand = self.request.input("brand")
         name = self.request.input("name")
