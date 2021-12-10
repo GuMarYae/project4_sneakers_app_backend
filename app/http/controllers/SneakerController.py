@@ -33,7 +33,7 @@ class SneakerController(Controller):
         year = self.request.input("year")
         image = self.request.input("image")
 
-        sneaker = Sneaker.create({"brand": brand, "name": name, "cost": cost, "Year": year, "image": image})
+        sneaker = Sneaker.create({"brand": brand, "name": name, "cost": cost, "year": year, "image": image})
         return sneaker
 
 #update route
