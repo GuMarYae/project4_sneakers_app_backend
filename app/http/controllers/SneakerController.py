@@ -44,7 +44,7 @@ class SneakerController(Controller):
         year = self.request.input("year")
         image = self.request.input("image")
         id = self.request.param("id")
-        Sneaker.where("id", id).update({"brand": brand, "name": name, "cost": cost, "Year": year, "image": image})
+        Sneaker.where("id", id).update({"brand": brand, "name": name, "cost": cost, "year": year, "image": image})
         return Sneaker.where("id", id).get()
 
     def destroy(self):
