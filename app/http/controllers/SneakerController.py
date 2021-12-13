@@ -37,6 +37,7 @@ class SneakerController(Controller):
         return sneaker
 
 #update route
+#this is the update route
     def update(self):
         brand = self.request.input("brand")
         name = self.request.input("name")
