@@ -348,3 +348,10 @@
 2024-04-28 16:16:08 - INFO - "GET /sneakers/ HTTP/1.1" 200 2237
 2024-04-28 16:16:08 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
 2024-04-28 20:48:01 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2024-04-28 21:09:29 - ERROR - ResponseError in 0 on line 0
+2024-04-28 21:09:35 - ERROR - ResponseError in 0 on line 0
+2024-04-28 21:11:11 - INFO - "GET / HTTP/1.1" 200 1219
+2024-04-28 21:11:11 - INFO - "GET /sneakers HTTP/1.1" 200 2
+2024-04-28 21:12:02 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2024-04-28 21:12:02 - INFO - "GET /sneakers/ HTTP/1.1" 200 2237
+2024-04-28 21:12:02 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
