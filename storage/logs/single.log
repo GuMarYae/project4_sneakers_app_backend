@@ -301,3 +301,38 @@
 2024-04-28 11:47:45 - WARNING - Python-dotenv could not parse statement starting at line 25
 2024-04-28 11:47:45 - WARNING - Python-dotenv could not parse statement starting at line 26
 2024-04-28 11:47:45 - INFO - "GET /sneakers/ HTTP/1.1" 200 2237
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 19
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 21
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 22
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 23
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 24
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 25
+2024-04-28 12:25:29 - WARNING - Python-dotenv could not parse statement starting at line 26
+2024-04-28 12:25:29 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2024-04-28 12:25:29 - INFO - "GET /sneakers/1 HTTP/1.1" 200 311
+2024-04-28 12:25:29 - INFO - "GET /sneakers/ HTTP/1.1" 200 1924
+2024-04-28 12:25:29 - INFO - "GET /sneakers/7 HTTP/1.1" 200 263
+2024-04-28 12:25:29 - WARNING - "POST /sneakers/7 HTTP/1.1" 404 1536
+2024-04-28 12:25:29 - INFO - "PUT /sneakers/7 HTTP/1.1" 200 265
+2024-04-28 12:25:29 - WARNING - "PUT /sneakers/ HTTP/1.1" 404 1536
+2024-04-28 12:25:29 - INFO - "GET /sneakers/ HTTP/1.1" 200 1924
+2024-04-28 12:25:29 - INFO - "DELETE /sneakers/7 HTTP/1.1" 200 265
+2024-04-28 12:25:29 - INFO - "GET /sneakers/ HTTP/1.1" 200 1659
+2024-04-28 12:25:29 - INFO - "POST /sneakers/ HTTP/1.1" 200 263
+2024-04-28 12:25:29 - INFO - "GET /sneakers/ HTTP/1.1" 200 1924
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 19
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 21
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 22
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 23
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 24
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 25
+2024-04-28 13:11:55 - WARNING - Python-dotenv could not parse statement starting at line 26
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 19
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 21
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 22
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 23
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 24
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 25
+2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 26
+2024-04-28 13:13:06 - INFO - "GET /sneakers/ HTTP/1.1" 200 1924
+2024-04-28 13:13:06 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
