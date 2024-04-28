@@ -347,3 +347,4 @@
 2024-04-28 16:12:19 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
 2024-04-28 16:16:08 - INFO - "GET /sneakers/ HTTP/1.1" 200 2237
 2024-04-28 16:16:08 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2024-04-28 20:48:01 - INFO - "GET /sneakers HTTP/1.1" 200 2237
