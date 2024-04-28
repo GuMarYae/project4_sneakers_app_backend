@@ -336,3 +336,14 @@
 2024-04-28 13:13:06 - WARNING - Python-dotenv could not parse statement starting at line 26
 2024-04-28 13:13:06 - INFO - "GET /sneakers/ HTTP/1.1" 200 1924
 2024-04-28 13:13:06 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2024-04-28 15:43:41 - INFO - "GET / HTTP/1.1" 200 1219
+2024-04-28 15:43:41 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2024-04-28 15:43:41 - INFO - "GET /sneakers HTTP/1.1" 200 1924
+2024-04-28 16:10:28 - INFO - "GET /sneakers HTTP/1.1" 200 4166
+2024-04-28 16:10:28 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2024-04-28 16:10:28 - INFO - "GET /sneakers HTTP/1.1" 200 4166
+2024-04-28 16:10:28 - INFO - "GET /sneakers HTTP/1.1" 200 4166
+2024-04-28 16:12:19 - INFO - "GET /sneakers/ HTTP/1.1" 200 6410
+2024-04-28 16:12:19 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2024-04-28 16:16:08 - INFO - "GET /sneakers/ HTTP/1.1" 200 2237
+2024-04-28 16:16:08 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
