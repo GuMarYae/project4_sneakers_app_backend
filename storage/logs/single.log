@@ -268,3 +268,17 @@
 2021-12-10 02:59:04 - INFO - "GET /sneakers HTTP/1.1" 200 2554
 2021-12-10 02:59:04 - INFO - "GET /sneakers HTTP/1.1" 200 2237
 2021-12-10 02:59:04 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2024-04-28 03:31:35 - INFO - "GET / HTTP/1.1" 200 1219
+2024-04-28 03:31:35 - INFO - "GET /static/style.css HTTP/1.1" 200 648
+2024-04-28 03:31:35 - INFO - "GET /favicon.ico HTTP/1.1" 200 1739
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 19
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 21
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 22
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 23
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 24
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 25
+2024-04-28 03:31:35 - WARNING - Python-dotenv could not parse statement starting at line 26
+2024-04-28 03:31:35 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2024-04-28 03:31:35 - INFO - "GET /sneakers HTTP/1.1" 200 2237
+2024-04-28 03:31:35 - INFO - "GET /favicon.ico HTTP/1.1" 304 0
+2024-04-28 03:34:39 - ERROR - ResponseError in 0 on line 0
